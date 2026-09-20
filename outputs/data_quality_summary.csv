@@ -1,0 +1,8 @@
+sheet,rows,columns,missing_values,duplicate_rows_after_cleaning
+OrderList,9215,14,0,0
+FreightRates,1537,11,0,0
+WhCosts,19,2,0,0
+WhCapacities,19,2,0,0
+ProductsPerPlant,2036,2,0,0
+VmiCustomers,14,2,0,0
+PlantPorts,22,2,0,0

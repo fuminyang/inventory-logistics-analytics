@@ -1,0 +1,4 @@
+kpi,value,unit,note
+On-time fulfillment proxy,97.92,%,On-time shipment rate; used because explicit fulfillment status is unavailable.
+Products with Safety Stock / ROP estimates,772.0,products,95% service-level assumption; TPT used as lead-time proxy.
+Products with EOQ estimates,772.0,products,Uses stated ordering-cost and holding-cost assumptions.

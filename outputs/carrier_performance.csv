@@ -1,0 +1,4 @@
+carrier,shipment_records,total_units,total_weight,average_transit_time,average_late_days
+V444_0,6264,23613389,121440.44,2.0,0.05
+V444_1,2097,2089040,26574.5,1.05,0.01
+V44_3,854,3810886,35102.65,1.29,0.0

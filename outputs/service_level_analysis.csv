@@ -1,0 +1,4 @@
+service_level,shipment_records,total_units,average_transit_time,average_late_days
+DTP,6218,22928578,1.99,0.05
+DTD,2143,2773851,1.09,0.01
+CRF,854,3810886,1.29,0.0
